@@ -1,7 +1,7 @@
 # Wine Quality Prediction
 We are using machine learning to check wine quality.
 
-This dataset was picked up from the Kaggle: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+This dataset was picked up from the Kaggle: https://www.kaggle.com/datasets/rajyellow46/wine-quality
 
 Description of Dataset:
 
